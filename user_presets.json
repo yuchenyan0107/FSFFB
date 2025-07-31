@@ -1,0 +1,37 @@
+{
+  "A250": {
+    "name": "A250",
+    "description": "Updated Comanche A250",
+    "params": {
+      "vne_override": 156,
+      "aileron_expo": 40,
+      "elevator_expo": 40,
+      "stall_aoa_ratio": 85,
+      "damper_coef": 10,
+      "g_force_gain": 10,
+      "elevator_droop_moment": 0,
+      "wind_gain_x": 15,
+      "wind_gain_y": 10,
+      "wind_max_intensity": 20,
+      "enable_stick_shaker": true,
+      "stick_shaker_intensity": 50,
+      "runway_rumble_intensity": 0,
+      "trim_following": true,
+      "joystick_trim_follow_gain_physical_y": 52,
+      "joystick_trim_follow_gain_virtual_y": 91,
+      "joystick_trim_follow_gain_physical_x": 0,
+      "joystick_trim_follow_gain_virtual_x": 0,
+      "ap_following": true,
+      "ap_trim_only": false,
+      "PMDG_AP_On": false,
+      "joystick_ap_follow_gain_physical_y": 50,
+      "joystick_ap_follow_gain_physical_x": 50,
+      "send_stick_position": true,
+      "max_aileron_coeff": 100,
+      "max_elevator_coeff": 100,
+      "prop_diameter": 196,
+      "test1": false,
+      "test2": false
+    }
+  }
+}
