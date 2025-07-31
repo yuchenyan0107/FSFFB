@@ -10,7 +10,7 @@ pyqtgraph>=0.13.0
 
 # Hardware Interface
 # already have the dll file
-#hidapi>=0.14.0
+hidapi>=0.14.0
 
 # Microsoft Flight Simulator Integration
 simconnect>=0.1.0
