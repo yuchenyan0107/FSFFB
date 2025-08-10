@@ -38,7 +38,6 @@ from fsffb.hardware.joystick_manager import JoystickManager
 from fsffb.core.ffb_calculator import FFBCalculator
 from fsffb.hardware.simulator_controller import SimulatorController
 
-
 class BackendThread(QThread):
     """
     Runs all the backend logic in a separate thread to keep the UI responsive.
